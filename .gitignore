@@ -7,11 +7,15 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+.drawio
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
+.drawio
 
 # Eclipse m2e generated files
 # Eclipse Core
 .project
+.drawio
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+.drawio
