@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T15:51:31.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="CPx5jeBAS_YAvwu11r8q" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-07T15:52:32.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="3ENPDSk86MXrlQSr5xGS" version="23.1.1" type="github">
   <diagram name="Slack-SF-Workflow-Sync" id="YL4licmrZXZJpVTfv50V">
-    <mxGraphModel dx="1861" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1961" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,7 +71,7 @@
         <mxCell id="k10mZ6BLLU__pb0CYggU-19" value="Slack Thread Comments Updated" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k10mZ6BLLU__pb0CYggU-20" value="Post the Slack Comments to Case Object Chatter Comments." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="k10mZ6BLLU__pb0CYggU-20" value="Post the Slack Comments to Case&amp;nbsp; Comment Object Chatter Comments." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="734" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k10mZ6BLLU__pb0CYggU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="k10mZ6BLLU__pb0CYggU-22" target="k10mZ6BLLU__pb0CYggU-20" edge="1">
