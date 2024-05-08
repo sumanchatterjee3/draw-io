@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T07:40:45.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Tod0Jsg6rIJ_PBwH7d05" version="24.3.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-08T07:42:39.672Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="XZl3gGJ_pBcU6tauCPXG" version="24.3.1" type="github" pages="3">
   <diagram id="Kd1FDJQy_ymCQOPq6sFN" name="NTN-MuleSoft Network Diagram">
     <mxGraphModel dx="4092" dy="1292" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,10 +32,10 @@
           <mxGeometry x="351" y="-31" width="863" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uLFq85hj9WoVxSmZYbQs-56" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Internal Transit Gateway&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="v_wZgBtS-z9SW-eihl9p-14" vertex="1">
-          <mxGeometry x="828" y="463" width="203" height="30" as="geometry" />
+          <mxGeometry x="739" y="474" width="272" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uLFq85hj9WoVxSmZYbQs-63" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Mutually Exclusive CIDR Range&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;that does not conflict with the Data Centre CIDR range&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="v_wZgBtS-z9SW-eihl9p-14" vertex="1">
-          <mxGeometry x="227" y="474" width="386" height="80" as="geometry" />
+          <mxGeometry x="39" y="474" width="574" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uLFq85hj9WoVxSmZYbQs-66" value="&lt;b&gt;Route Table&lt;/b&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.route_table;fillColor=#F58536;gradientColor=none;" parent="v_wZgBtS-z9SW-eihl9p-14" vertex="1">
           <mxGeometry x="1099" y="474" width="75" height="69" as="geometry" />
