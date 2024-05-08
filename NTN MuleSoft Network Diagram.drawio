@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T09:56:26.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="7aJSo7V2H_emQEp0r4pF" version="24.3.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-05-08T11:26:44.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="lZZiOLqYz_8hNdoRq12M" version="24.3.1" type="github" pages="6">
   <diagram id="Kd1FDJQy_ymCQOPq6sFN" name="NTN-MuleSoft Network Diagram">
     <mxGraphModel dx="3469" dy="1577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -159,7 +159,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="4PF8VpWIwDcGRhxTADfi" name="Page-3">
+  <diagram id="4PF8VpWIwDcGRhxTADfi" name="Steps in Creation of the Network">
     <mxGraphModel dx="3970" dy="60" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -173,7 +173,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="0imewiFCjmJIB3GT2CQ8" name="Page-5">
+  <diagram id="0imewiFCjmJIB3GT2CQ8" name="Image">
     <mxGraphModel dx="1134" dy="589" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -184,7 +184,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="sZUDU0ZxCOW0gALtSVd9" name="Page-4">
+  <diagram id="sZUDU0ZxCOW0gALtSVd9" name="CIDR and Subnet Explained">
     <mxGraphModel dx="1134" dy="989" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -281,6 +281,68 @@
         </mxCell>
         <mxCell id="K1e4F1ynRyixXACOfK9m-6" value="CIDR and Subnet Explained" style="html=1;shape=mxgraph.infographic.banner;dx=32;dy=17;notch=15;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=14;fontStyle=1;spacingBottom=15;" vertex="1" parent="1">
           <mxGeometry x="240" y="-120" width="411" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0HZa4hgJonIfpzsu9XPS" name="IPAddress and Masking">
+    <mxGraphModel dx="1246" dy="446" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y-tkT1SmaezkSlsAVBKS-21" value="IP Address 205.16.37.39" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#64BBE2;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="193" y="150" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-tkT1SmaezkSlsAVBKS-22" value="1" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="163" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-tkT1SmaezkSlsAVBKS-23" value="Mask /24 (2&lt;sup&gt;32-24&amp;nbsp;&lt;/sup&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;=2&lt;sup&gt;8&lt;/sup&gt;)&lt;/span&gt;" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#F8C382;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="193" y="215" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-tkT1SmaezkSlsAVBKS-24" value="2" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#F2931E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="163" y="205" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-tkT1SmaezkSlsAVBKS-25" value="First IP Address : 205.16.37.0" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#F08E81;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="193" y="280" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-tkT1SmaezkSlsAVBKS-26" value="3" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#AE4132;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="163" y="270" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-tkT1SmaezkSlsAVBKS-27" value="Last IP Address : 205.16.37.255" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#5D7F99;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="193" y="345" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-tkT1SmaezkSlsAVBKS-28" value="4" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#23445D;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="163" y="335" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-tkT1SmaezkSlsAVBKS-29" value="Total IPs in the Subnet" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#61C6CE;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="193" y="410" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-tkT1SmaezkSlsAVBKS-30" value="5" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=0;strokeColor=#ffffff;fillColor=#12AAB5;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="163" y="400" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-tkT1SmaezkSlsAVBKS-31" value="11001101 00010000 00100101 00100111" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#64BBE2;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="432" y="150" width="325" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-tkT1SmaezkSlsAVBKS-32" value="11111111 11111111 11111111&amp;nbsp;&lt;font color=&quot;#000000&quot;&gt;00000000&lt;/font&gt;" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#F8C382;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="432" y="215" width="327" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-tkT1SmaezkSlsAVBKS-33" value="11001101 00010000 00100101 00100000" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#F08E81;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="432" y="280" width="327" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-tkT1SmaezkSlsAVBKS-34" value="11001101 00010000 00100101 00101111" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#5D7F99;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="432" y="345" width="326" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-tkT1SmaezkSlsAVBKS-35" value="(2&lt;sup&gt;32-24&amp;nbsp;&lt;/sup&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;=2&lt;sup&gt;8&lt;/sup&gt;) = 256&lt;/span&gt;" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#61C6CE;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="432" y="410" width="328" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-tkT1SmaezkSlsAVBKS-36" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;A Mask is a 32-bit number in which the n leftmost bits&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;are Is and the 32 - n rightmost bits are Os. However, in classless addressing the mask&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;for a block can take any value from 0 to 32. It is very convenient to give just the value&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;of n preceded by a slash (CIDR notation).&lt;/font&gt;&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.ribbonFrontFolded;dx=25;dy=15;notch=15;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=14;fontStyle=1;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="789" y="140" width="519" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-tkT1SmaezkSlsAVBKS-37" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;The first address can be found by ANDing the given addresses with the mask. ANDing here is&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;done bit by bit&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.ribbonFrontFolded;dx=25;dy=15;notch=15;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=14;fontStyle=1;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="789" y="249" width="519" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-tkT1SmaezkSlsAVBKS-38" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;The last address can be found by ORing the given&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;addresses with the complement of the mask.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;ORing here is done bit by bit.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;The result of ORing 2 bits is 0 if both bits are Os;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;the result is 1 otherwise. The complement of a number is found by changing each 1 to 0&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;and each 0 to 1.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.ribbonFrontFolded;dx=25;dy=15;notch=15;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=14;fontStyle=1;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="789" y="336" width="519" height="114" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
